@@ -1,7 +1,7 @@
 # Competition 참가
   ## <a href="https://dacon.io/competitions/official/235713/overview/description">신용카드 사용자 연체 예측 AI 경진대회</a>
   
-  <a href="">코드</a>
+  <a href="https://github.com/gon2gon2/kaggle/blob/master/credit_card/preprocessing_finish/Lv0/ver1-origin.ipynb">코드</a>
   
   <a href="not_yet">대회 리뷰</a>
   
