@@ -1,8 +1,11 @@
 # Competition 참가
-  ## 신용카드 사용자 연체 예측 AI 경진대회
-  ### <a href="https://dacon.io/competitions/official/235713/overview/description">대회 링크</a>
+  ## <a href="https://dacon.io/competitions/official/235713/overview/description">신용카드 사용자 연체 예측 AI 경진대회</a>
   
-  ### <a href="not_yet">리뷰(유튜브)</a>
+  <a href="">코드</a>
+  
+  <a href="not_yet">대회 리뷰</a>
+  
+  ### 
 
 # 캐글 코드 분석, 필사
   ## Titanic
